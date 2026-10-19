@@ -1,0 +1,6 @@
+{
+  "name": "감정 단어 탐험대 - 초등 3~4학년 감정 어휘 게임",
+  "description": "상황 이야기 속 감정을 찾고 감정 온도계로 세기별 단어를 맞히며 도감을 모아 감정 박사 배지를 받는 초등 3~4학년용 감정 어휘 학습 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
